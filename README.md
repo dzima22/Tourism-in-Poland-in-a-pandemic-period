@@ -21,11 +21,13 @@
 <p align="center">
   <img src="https://github.com/dzima22/Tourism_in_Poland_in_a_pandemic_period/blob/main/imgs/tourist%20spending%20from%20Germany%20in%20Poland.jpg" alt="Size Limit CLI" width="738">
 </p>
+
  - The second largest group of foreign tourists in Poland were `Ukrainians`, who preferred regions such as `Lubelskie`, `Podkarpackie`, `Mazowieckie`, `Małopolskie`, `Śląskie`, and `Dolnośląskie`. The Mazowieckie region was particularly attractive to Ukrainian tourists due to its proximity to the border and overall popularity among foreign tourists.
  - Although `British and American tourists` made up the third and fourth largest groups, their numbers were significantly smaller. Based on this information, we `accept the hypothesis` that the largest percentage of foreign tourists during the pandemic came from neighboring countries. Additionally, the most popular regions among them were border regions, with the exceptions of Małopolskie and Mazowieckie
 <p align="center">
   <img src="https://github.com/dzima22/Tourism_in_Poland_in_a_pandemic_period/blob/main/imgs/tourist%20spending%20from%20Ukraine%20in%20Poland.jpg" alt="Size Limit CLI" width="738">
 </p>
+
 - Looking at the expenditure structure, we can see that `American tourists` spent almost as much as `Ukrainian tourist`s during the pandemic, despite `being half as many in number`. This may be due to significant differences in the level of development and average incomes between these countries. `German tourists` spent the most by far, nearly 19 million PLN over three years. Interestingly, `Belarusian tourists` spent almost as much as `French or Italian tourists`, despite the larger number of tourists from France and Italy and the significant differences in the level of development between these countries.
 
 <p align="center">
